@@ -1,0 +1,23 @@
+.main-content {
+  background-image: url("assets/images/main-background.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 1000px;
+  padding: 20px 30px;
+}
+
+.filters {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.filters-item {
+  padding-bottom: 5px;
+  text-transform: uppercase;
+
+}
+
+.filters-item:hover {
+  border-bottom: 1px solid #fff;
+}

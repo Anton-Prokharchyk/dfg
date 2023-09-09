@@ -1,0 +1,44 @@
+.game-details-page-container {
+  width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.carousel-container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.carousel__main-preview {
+  width: 100%;
+  height: 500px;
+  background-image: url("../../../app/assets/images/apex-main-preview.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.carousel__items {
+  width: 100%;
+  height: 100px;
+  background-image: url("../../../app/assets/images/apex-video-preview.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.game-details-page__donate-container {
+  width: 100%;
+  height: 200px;
+  background-color: transparent;
+}
+
+div.mdc-linear-progress__bar .mdc-linear-progress__primary-bar {
+  color: green;
+  background-color: green;
+  border-color: green;
+}
+
+.abc .mdc-linear-progress__bar-inner {
+  color: green;
+  background-color: green;
+  border-color: green;
+}
